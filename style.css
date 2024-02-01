@@ -1,0 +1,89 @@
+		body{
+			background-color:black;
+			background:linear-gradient(to left,red,white);
+			color:white;
+			background-image:url("Ojmv.gif")
+		}
+		h1{
+			color:white;
+			padding:15px;
+			margin:10px;
+			text-align:center;
+			opacity:90%;
+			font-family:"Workbench";
+			font-size:40px;
+			font-style:italic;
+			font-color:tomato;
+			text-decoration:black dotted line;
+		}
+		p{
+			background-color:gray;
+			background-color:gray;
+			color:powderblue;
+			padding:15px;
+
+			margin:10px;
+			font-family:"Arial","sans-serif","Times New Roman";
+		}
+		nav{
+			background-color:green;
+			padding:15px;
+			margin:1px;
+			border-left-margin:0px
+			
+		}
+		#para3{
+			background-color:white;
+			color:black;
+			border-top-style:ridge;
+			border-top-style:ridge;
+			border-bottom-style:ridge;
+			border-
+		}
+		.bro{
+			color:tomato;
+			font-family:"Times New Roman","Arial";
+			font-decoration:cyan dotted line;
+			margin:15px;
+			padding:10px;
+			border-style:solid;
+			border-color:silver;
+			border-width:5px;
+			border-radius:15px;
+		}	
+		#p1{
+			margin-bottom:3px;
+		}
+		
+		#box1{
+			border:10 px solid;
+			width: 700px;
+			height:300 px;
+			font-size:12px;
+			background:linear-gradient(to right, green, black);
+			text-align:center;
+			padding:5px;
+			margin-left:20px;
+			margin-top:45px;
+			
+			float:right
+		}
+		
+		#box2{
+			border:7 px solid;
+			margin-style:dotted;
+			width: 640px;
+			height:300 px;
+			padding: 3 px;
+			font-size:20px;
+			background:linear-gradient(to right, white, black);
+			margin-left:790px;
+			margin-top:-250px;
+			
+			float:left
+		}
+		
+		#boxa{
+			
+		
+		}
